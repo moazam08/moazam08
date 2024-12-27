@@ -1,6 +1,5 @@
--
-- # 💫 About Me:
- 👋 Hi, I’m @moazam08 🌱 I’m currently learning cybersecurity <br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:
+ 👋 Hi, I’m @moazam08 <br>🌱 I’m currently learning cybersecurity <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
